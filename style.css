@@ -1,0 +1,15 @@
+.imagen{
+    text-align: center;
+    border: solid;
+    margin-left: 598px;
+    margin-right: 598px;
+}
+
+.three {
+    margin-left: 2px;
+    float: left;
+}
+.five {
+    margin-right: 2px;
+    float: right;
+}
